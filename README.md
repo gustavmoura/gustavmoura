@@ -23,8 +23,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" title="n8n"/>
+    <img src="https://avatars.githubusercontent.com/u/161113848?s=200&v=4" width="40" title="Lovable"/>
+    <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/favicon.png" width="40" title="Supabase"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </div>
@@ -52,9 +53,10 @@
 ---
 
 ## 🌐 Onde me encontrar
-- Instagram: [@dicasparadevs](https://instagram.com/dicasparadevs)  
-- LinkedIn: [Piraty Moura](https://linkedin.com/in/seulinkedin)  
-- GitHub: [@piratymoura](https://github.com/piratymoura)
+- Instagram: [@construacomia](https://instagram.com/construacomia)  
+- LinkedIn: [Gustavo Moura](https://linkedin.com/in/gustavmoura)  
+- GitHub: [@gustavmoura](https://github.com/gustavmoura)
+- YouTube: [@eugustavomoura](https://www.youtube.com/@eugustavomoura)
 
 ---
 
