@@ -25,7 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
     <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" title="n8n"/>
     <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="40" title="Vite"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" width="40" title="OpenAI"/>
+    <img src="https://mui.com/static/logo.png" width="40" title="Material-UI"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </div>
